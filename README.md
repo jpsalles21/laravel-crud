@@ -1,3 +1,5 @@
+* O arquivo .env é apenas um arquivo exemplo para ser utilizado ao rodar e testar o projeto
+
 
 # Setup Docker Com Laravel 10 e  PHP 8.1
 
